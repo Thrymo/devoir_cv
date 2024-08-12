@@ -1,0 +1,19 @@
+
+header{
+    background-color: #782221;  
+    display: flex;
+    justify-content: center;
+    }
+
+main{
+    justify-content: left;
+    background-color: #782221;
+    display: flex;
+
+    }
+
+section{
+    display: flex;
+    background-color: white;
+    justify-content: left;
+}
